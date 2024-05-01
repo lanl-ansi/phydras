@@ -1,0 +1,34 @@
+{
+  "boundary_pslack": {
+    "1": {
+      "pressure": 4e6,
+      "concentration": 0
+    }
+  },
+  "boundary_compressor": {
+    "1": {
+      "control_type": 0,
+      "value": 1.9590170084441845
+    },
+    "2": {
+      "control_type": 0,
+      "value": 1.0016437573470103
+    },
+    "3": {
+      "control_type": 0,
+      "value": 1.0204230407739594
+    }
+  },
+  "boundary_nonslack_flow": {
+    "5": {
+      "injection": null,
+      "withdrawal": 6.79562234440882e-19,
+      "concentration": null
+    },
+    "3": {
+      "injection": null,
+      "withdrawal": -8.628698257433139e-16,
+      "concentration": null
+    }
+  }
+}
